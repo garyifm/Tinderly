@@ -22,4 +22,21 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="btnStyleOrange" parent="@android:style/Widget.Button">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:padding">10dip</item>
+    </style>
+
+    <style name="smallButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:padding">10dip</item>
+    </style>
 </resources>

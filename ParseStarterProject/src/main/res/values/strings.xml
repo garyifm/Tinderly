@@ -15,4 +15,6 @@
     <string name="hello_world">Hello World!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_index">Index</string>
+    <string name ="boton_registrar">Registrar</string>
+    <string name="boton_iniciarSesion">Iniciar</string>
 </resources>
