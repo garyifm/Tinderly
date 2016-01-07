@@ -11,6 +11,7 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
+
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -38,5 +39,9 @@
         <item name="android:gravity">center</item>
         <item name="android:background">@drawable/roundstyle</item>
         <item name="android:padding">10dip</item>
+    </style>
+
+    <style name="back">
+        <item name="android:background">@drawable/backtl</item>
     </style>
 </resources>
