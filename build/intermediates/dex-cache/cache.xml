@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gary/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-50fec1037ac4242d5b4bd13a3a86026807d54521.jar" />
+    </item>
+    <item
+        jar="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-39d2c74e4a733a25c7d2a3d3496e1414ba4b60b9.jar" />
+    </item>
+    <item
+        jar="/Users/Gary/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.12.0/34ca297c889cd2023074946c7097d96b30b20891/parse-android-1.12.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="34ca297c889cd2023074946c7097d96b30b20891">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.12.0-80da3b346fc6149e9f2fdd7e05f945866f5fc06c.jar" />
+    </item>
+    <item
+        jar="/Users/Gary/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-a4098c4a6338ba7151debc80bced803572939fbd.jar" />
+    </item>
+    <item
+        jar="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-f4c8ec67ad76c262759c902b34e4b6c2c4fb9071.jar" />
+    </item>
+    <item
+        jar="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b8f2913237fce62235d06ed8432b0a286f60c213.jar" />
+    </item>
+
+</items>
