@@ -311,6 +311,8 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <!-- From: file:/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="boton_iniciarSesion">Iniciar Sesión</string>
+    <string name="boton_registrar">Registrar</string>
     <string name="hello_world">Hello World!</string>
     <string name="parse_app_id">BnVi94RY7qoLLHrwXieRsICwyq0hbb7HHyy3LO79</string>
     <string name="parse_client_key">tCOyb688xgEh4jzykMhRhoylgsVyxz7rN5lcZAxP</string>
@@ -330,6 +332,7 @@
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
+
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="AppTheme.NoActionBar">
@@ -1683,5 +1686,26 @@
     <style name="Widget.Design.TextInputLayout" parent="android:Widget">
         <item name="hintTextAppearance">@style/TextAppearance.Design.Hint</item>
         <item name="errorTextAppearance">@style/TextAppearance.Design.Error</item>
+    </style>
+    <!-- From: file:/Users/Gary/Desktop/Parse-Starter-Project-1.12.0/ParseStarterProject/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="back">
+        <item name="android:background">@drawable/backtl</item>
+    </style>
+    <style name="btnStyleOrange" parent="@android:style/Widget.Button">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:padding">10dip</item>
+    </style>
+    <style name="smallButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:padding">10dip</item>
     </style>
 </resources>

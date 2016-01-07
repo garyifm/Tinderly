@@ -2135,9 +2135,11 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020038;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020039;
         public static final int abc_textfield_search_material=0x7f02003a;
-        public static final int fab_background=0x7f02003b;
-        public static final int notification_template_icon_bg=0x7f02003d;
-        public static final int snackbar_background=0x7f02003c;
+        public static final int backtl=0x7f02003b;
+        public static final int fab_background=0x7f02003c;
+        public static final int notification_template_icon_bg=0x7f02003f;
+        public static final int roundstyle=0x7f02003d;
+        public static final int snackbar_background=0x7f02003e;
     }
     public static final class id {
         public static final int action0=0x7f0c006e;
@@ -2161,7 +2163,9 @@ containing a value of this type.
         public static final int always=0x7f0c002c;
         public static final int beginning=0x7f0c002a;
         public static final int bottom=0x7f0c001b;
-        public static final int button=0x7f0c006b;
+        public static final int button=0x7f0c0069;
+        public static final int button2=0x7f0c006a;
+        public static final int button3=0x7f0c006b;
         public static final int buttonPanel=0x7f0c004e;
         public static final int cancel_action=0x7f0c006f;
         public static final int center=0x7f0c001c;
@@ -2180,7 +2184,7 @@ containing a value of this type.
         public static final int dialog=0x7f0c0031;
         public static final int disableHome=0x7f0c000e;
         public static final int dropdown=0x7f0c0032;
-        public static final int editText=0x7f0c006a;
+        public static final int editText=0x7f0c0068;
         public static final int edit_query=0x7f0c005a;
         public static final int end=0x7f0c0021;
         public static final int end_padder=0x7f0c007a;
@@ -2189,7 +2193,6 @@ containing a value of this type.
         public static final int exitUntilCollapsed=0x7f0c0017;
         public static final int expand_activities_button=0x7f0c003f;
         public static final int expanded_menu=0x7f0c004f;
-        public static final int fab=0x7f0c0068;
         public static final int fill=0x7f0c0022;
         public static final int fill_horizontal=0x7f0c0023;
         public static final int fill_vertical=0x7f0c0024;
@@ -2252,11 +2255,10 @@ containing a value of this type.
         public static final int text=0x7f0c0078;
         public static final int text2=0x7f0c0076;
         public static final int textSpacerNoButtons=0x7f0c004b;
-        public static final int textView=0x7f0c0069;
+        public static final int textView=0x7f0c0067;
         public static final int time=0x7f0c0074;
         public static final int title=0x7f0c0044;
         public static final int title_template=0x7f0c0047;
-        public static final int toolbar=0x7f0c0067;
         public static final int top=0x7f0c0028;
         public static final int topPanel=0x7f0c0046;
         public static final int up=0x7f0c0009;
@@ -2351,11 +2353,13 @@ containing a value of this type.
         public static final int action_settings=0x7f060011;
         public static final int app_name=0x7f060012;
         public static final int appbar_scrolling_view_behavior=0x7f060013;
-        public static final int hello_world=0x7f060014;
-        public static final int parse_app_id=0x7f060015;
-        public static final int parse_client_key=0x7f060016;
-        public static final int status_bar_notification_info_overflow=0x7f060017;
-        public static final int title_activity_index=0x7f060018;
+        public static final int boton_iniciarSesion=0x7f060014;
+        public static final int boton_registrar=0x7f060015;
+        public static final int hello_world=0x7f060016;
+        public static final int parse_app_id=0x7f060017;
+        public static final int parse_client_key=0x7f060018;
+        public static final int status_bar_notification_info_overflow=0x7f060019;
+        public static final int title_activity_index=0x7f06001a;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f080075;
@@ -2675,6 +2679,9 @@ containing a value of this type.
         public static final int Widget_Design_Snackbar=0x7f080139;
         public static final int Widget_Design_TabLayout=0x7f080001;
         public static final int Widget_Design_TextInputLayout=0x7f08013a;
+        public static final int back=0x7f08013b;
+        public static final int btnStyleOrange=0x7f08013c;
+        public static final int smallButton=0x7f08013d;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
